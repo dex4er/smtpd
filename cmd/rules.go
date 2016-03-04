@@ -7,7 +7,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/siebenmann/smtpd"
+	"../smtpd"
 	"net"
 	"strings"
 )

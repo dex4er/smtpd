@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/siebenmann/smtpd"
+	"../smtpd"
 )
 
 // Our message/logging time format is time without the timezone.
